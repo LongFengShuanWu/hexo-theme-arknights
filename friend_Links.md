@@ -11,5 +11,6 @@
 - **Dr.TTsdzb <https://ark.ttsdzb.monster/>**
 - **Dr.Angine <https://angine.tech/>**
 - **Dr.sjfhsjfh <http://sjfh.top/>**
+- **Dr.yuanli <https://blog.yuanli-lfsw.com/>**
 
 如果使用了这个主题，欢迎发起 Pull Requests 在这儿贴友链~
